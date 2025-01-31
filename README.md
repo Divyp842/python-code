@@ -1,4 +1,3 @@
-# python-code
 # Python-Programming
 This repository contains the practicals performed in PP (Laboratory). The practicals are based on the syllabus of DRS. KIRAN &amp; PALLAVI PATEL GLOBAL UNIVERSITY.
 
